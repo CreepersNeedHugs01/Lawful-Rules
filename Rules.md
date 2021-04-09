@@ -1,5 +1,4 @@
-# Lawful-Rules
-Rules for the "Lawful" speedrunning category extension.
+## Rules for the "Lawful" speedrunning category extension.
 
 ### 1: No theft. It is considered theft if you do any of the following:
 
