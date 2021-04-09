@@ -1,6 +1,6 @@
-## Rules for the "Lawful" speedrunning category extension.
+## Rules for the "Lawful" speedrunning category extension:
 
-### 1: No theft. It is considered theft if you do any of the following:
+### 1: No theft. It is committing theft if you do any of the following:
 
   1,1: Take items out of chests at Villages
   
@@ -20,7 +20,7 @@
   
   1,9: Take Gold Blocks from Bastion Remnants (also considered vandalizing).
   
-### 2: No vandalizing. It is considered vandalizing if you do any of the following:
+### 2: No vandalizing. It is committing vandalizing if you do any of the following:
 
   2,1: Take blocks from buildings in Villages and not replace them. This includes trees that generate in the center of some Villages, near two Bells.
   
@@ -32,7 +32,7 @@
   
   2,5: Break blocks in a Witch Hut and not replace them.
   
-### 3: No kidnapping. It is considered kidnapping if you do any of the following:
+### 3: No kidnapping. It is committing kidnapping if you do any of the following:
 
   3,1: Knowingly and/or purposely trap a Villager and/or Wandering Trader in a confined space smaller than 10 blocks long, 1o blocks wide, and 4 blocks tall.
   
@@ -56,7 +56,7 @@
   
   3,11: Attach an Iron Golem and/or Snow Golem to a Lead.
   
-### 4: No murder/manslaughter. It is considering murder and/or manslaughter if you do any of the following:
+### 4: No murder/manslaughter. It is committing murder and/or committing manslaughter if you do any of the following:
 
   4,1: Knowingly and/or purposely kill a Villager, Wandering Trader, and/or Zombie Villager.
   
@@ -67,3 +67,7 @@
   4,4: Knowingly and/or purposely kill an Enderman.
   
   4,5: Knowingly and/or purposely kill a Pillager, Evoker, Vex, Vindicator, and/or Witch.
+
+### 5: These rules are subject to change at any time, with or without notice.
+
+### 6: Violation of any of these rules will result in a denial of your run.
